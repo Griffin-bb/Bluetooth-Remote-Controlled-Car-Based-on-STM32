@@ -1,0 +1,24 @@
+# Build artefacts
+build/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE / editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+
+# STM32CubeIDE project files (optional, uncomment if using CubeIDE)
+# .mxproject
+# *.ioc
+
+# OS
+.DS_Store
+Thumbs.db
